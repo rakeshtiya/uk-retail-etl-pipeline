@@ -1,0 +1,111 @@
+Sale_Date,ProductName,Category,Store_Location,Qty,Price,Total_Revenue
+2026-01-21,Shoes,Footwear,Birmingham,,18.06,126.41999999999999
+01-01-2026,Shoes,Apparel,london store,4.0,37.4,149.6
+2026-01-09,Jacket,clothing,london store,8.0,15.78,126.24
+2026-01-08,Shoes,Apparel,,5.0,92.85,464.25
+2026-01-24,Shoes,Clothing,Edinburgh,7.0,88.35,618.4499999999999
+01-22-2026,Belt,Apparel,,3.0,29.5,88.5
+01-29-2026,Jeans,Apparel,,7.0,67.7,473.90000000000003
+01-03-2026,Hat,apparel ,Edinburgh,8.0,82.64,661.12
+2026-01-14,Jeans,apparel ,london store,5.0,57.74,288.7
+2026-01-01,Jacket,Apparel,Edinburgh,4.0,55.32,221.28
+2026-01-07,Hat,Accessories,london store,,27.98,223.84
+01-17-2026,Dress,Footwear,Edinburgh,8.0,13.84,110.72
+01-01-2026,Dress,apparel ,,3.0,90.24,270.71999999999997
+01-07-2026,Scarf,Accessories,london store,6.0,90.54,543.24
+01-21-2026,T-Shirt,apparel ,Birmingham,5.0,65.14,325.7
+18/01/2026,Jacket,Clothing,Manchester,2.0,37.21,74.42
+08/01/2026,Belt,apparel ,Manchester,8.0,38.17,305.36
+19/01/2026,Belt,Apparel,Edinburgh,6.0,73.97,443.82
+2026-01-26,T-Shirt,apparel ,london store,2.0,90.23,180.46
+2026-01-25,Jeans,Apparel,Edinburgh,5.0,89.27,446.34999999999997
+23/01/2026,Dress,Clothing,Edinburgh,,79.09,79.09
+11/01/2026,Belt,Footwear,Manchester,6.0,65.99,395.93999999999994
+2026-01-05,Belt,clothing,London,9.0,12.99,116.91
+31/01/2026,Belt,Apparel,Manchester,1.0,20.35,20.35
+2026-01-04,Dress,Accessories,Manchester,3.0,90.36,271.08
+2026-01-13,Jeans,Accessories,Manchester,7.0,62.61,438.27
+12/01/2026,Scarf,Footwear,Edinburgh,4.0,5.87,23.48
+20/01/2026,Hat,Accessories,London,9.0,14.64,131.76
+2026-01-26,Shoes,Apparel,Manchester,3.0,68.03,204.09
+24/01/2026,Belt,clothing,london store,5.0,5.48,27.400000000000002
+2026-01-18,Hat,Clothing,london store,,20.28,60.84
+30/01/2026,T-Shirt,apparel ,London,7.0,57.13,399.91
+01-03-2026,Scarf,Accessories,Birmingham,5.0,70.73,353.65000000000003
+01-10-2026,Dress,clothing,Edinburgh,9.0,66.94,602.46
+20/01/2026,Hat,clothing,Birmingham,7.0,26.31,184.17
+2026-01-19,Belt,clothing,Manchester,2.0,72.66,145.32
+2026-01-23,Jeans,Footwear,Birmingham,4.0,27.54,110.16
+01-02-2026,T-Shirt,Clothing,,9.0,35.91,323.18999999999994
+08/01/2026,T-Shirt,Accessories,Edinburgh,2.0,75.92,151.84
+2026-01-03,Shoes,Apparel,london store,9.0,66.72,600.48
+2026-01-28,Dress,Apparel,,,85.68,428.40000000000003
+13/01/2026,Shoes,apparel ,london store,2.0,67.47,134.94
+01-15-2026,Hat,clothing,Birmingham,4.0,58.99,235.96
+27/01/2026,Jeans,Apparel,London,7.0,13.9,97.3
+06/01/2026,Hat,Apparel,Birmingham,8.0,39.93,319.44
+2026-01-12,Dress,Footwear,london store,3.0,30.19,90.57000000000001
+22/01/2026,Jacket,Footwear,,1.0,28.18,28.18
+01-23-2026,Belt,Apparel,,4.0,97.44,389.76
+2026-01-21,Scarf,Clothing,Birmingham,2.0,42.34,84.68
+01-20-2026,T-Shirt,Footwear,london store,8.0,89.74,717.92
+01-06-2026,Jacket,apparel ,Edinburgh,,64.96,259.84
+2026-01-24,Dress,clothing,Edinburgh,2.0,80.51,161.02
+06/01/2026,T-Shirt,apparel ,Manchester,6.0,52.75,316.5
+13/01/2026,Scarf,Accessories,Manchester,6.0,59.81,358.86
+01-30-2026,Hat,Apparel,Birmingham,4.0,51.79,207.16
+01-23-2026,Dress,Accessories,London,6.0,23.55,141.3
+01-08-2026,Hat,Clothing,Birmingham,2.0,73.63,147.26
+2026-01-11,Shoes,Apparel,london store,2.0,31.67,63.34
+2026-01-08,Jacket,Footwear,Birmingham,4.0,7.31,29.24
+26/01/2026,T-Shirt,Accessories,London,8.0,66.32,530.56
+13/01/2026,T-Shirt,Accessories,Birmingham,,21.83,152.81
+2026-01-03,Belt,Footwear,London,9.0,94.34,849.0600000000001
+01-30-2026,Belt,Footwear,Edinburgh,8.0,95.62,764.96
+01-29-2026,Shoes,Apparel,London,5.0,91.91,459.54999999999995
+2026-01-11,Scarf,Footwear,Birmingham,2.0,40.17,80.34
+21/01/2026,Shoes,apparel ,Edinburgh,5.0,6.47,32.35
+01-13-2026,Jeans,clothing,London,8.0,93.19,745.52
+2026-01-15,Jeans,Apparel,Edinburgh,9.0,45.68,411.12
+2026-01-09,Dress,Clothing,London,9.0,96.83,871.47
+01-08-2026,Belt,Accessories,Birmingham,1.0,96.54,96.54
+01-18-2026,Scarf,Accessories,London,,86.04,774.36
+01-09-2026,Scarf,Footwear,Birmingham,7.0,32.97,230.79
+19/01/2026,Belt,clothing,Manchester,9.0,41.58,374.21999999999997
+01-29-2026,Jeans,clothing,Manchester,8.0,85.86,686.88
+13/01/2026,Jeans,clothing,london store,1.0,35.11,35.11
+2026-01-08,T-Shirt,Apparel,Birmingham,8.0,21.1,168.8
+17/01/2026,Scarf,Apparel,london store,8.0,57.9,463.2
+2026-01-03,Belt,Clothing,london store,3.0,93.93,281.79
+2026-01-28,Jacket,Apparel,Manchester,1.0,71.12,71.12
+01-05-2026,Shoes,Footwear,London,8.0,59.16,473.28
+01-06-2026,Jeans,apparel ,London,,14.23,42.69
+01-14-2026,Belt,Clothing,Edinburgh,3.0,63.43,190.29
+03/01/2026,Scarf,Footwear,,1.0,99.06,99.06
+01-13-2026,Belt,Accessories,Birmingham,5.0,18.31,91.55
+01-15-2026,Scarf,Apparel,Edinburgh,7.0,54.24,379.68
+01-09-2026,Belt,clothing,london store,9.0,88.35,795.15
+2026-01-28,T-Shirt,Footwear,Edinburgh,7.0,75.37,527.59
+01-22-2026,Hat,Apparel,london store,9.0,71.22,640.98
+01-04-2026,Dress,Accessories,,8.0,71.74,573.92
+01-29-2026,Belt,Clothing,Manchester,2.0,39.15,78.3
+25/01/2026,Scarf,clothing,London,,32.89,32.89
+01-25-2026,Scarf,clothing,London,7.0,81.89,573.23
+2026-01-11,Scarf,Clothing,London,7.0,81.96,573.7199999999999
+10/01/2026,Dress,Footwear,london store,8.0,87.37,698.96
+06/01/2026,Scarf,Apparel,Edinburgh,5.0,91.76,458.8
+01-01-2026,T-Shirt,apparel ,Manchester,3.0,53.58,160.74
+01-29-2026,Scarf,Accessories,london store,8.0,52.64,421.12
+01-09-2026,Scarf,Clothing,london store,6.0,80.84,485.04
+2026-01-25,Jeans,Apparel,Manchester,3.0,66.75,200.25
+2026-01-17,Scarf,apparel ,Edinburgh,1.0,71.69,71.69
+11/01/2026,Belt,Footwear,Manchester,,65.99,395.93999999999994
+01-21-2026,T-Shirt,apparel ,Birmingham,5.0,65.14,325.7
+01-23-2026,Belt,Apparel,,4.0,97.44,389.76
+2026-01-25,Jeans,Apparel,Edinburgh,5.0,89.27,446.34999999999997
+2026-01-12,Dress,Footwear,london store,3.0,30.19,90.57000000000001
+01-06-2026,Jeans,apparel ,London,3.0,14.23,42.69
+01-06-2026,Jacket,apparel ,Edinburgh,4.0,64.96,259.84
+27/01/2026,Jeans,Apparel,London,7.0,13.9,97.3
+12/01/2026,Scarf,Footwear,Edinburgh,4.0,5.87,23.48
+30/01/2026,T-Shirt,apparel ,London,7.0,57.13,399.91
