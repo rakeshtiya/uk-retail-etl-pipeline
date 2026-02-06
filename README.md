@@ -168,8 +168,8 @@ All queries run cleanly against the normalized database — impossible with raw 
 
 ---
 
-**Author:** Rakesh Kumar  
-**Contact:** [Your LinkedIn] | [Your Email]  
-**Portfolio:** [Link to your GitHub profile]
+**Author:** Rakesh Mohankumar  
+**Contact:** [https://www.linkedin.com/in/rakesh-mohankumar-367915161/] | [rakesh.tiya@gmail.com]  
+**Portfolio:** [https://github.com/rakeshtiya/rakeshtiya]
 
 *Part of a progressive data engineering portfolio series demonstrating production-ready data skills for UK analytics roles*
